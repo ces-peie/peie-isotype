@@ -1,0 +1,9 @@
+# Ignore raster media files
+*.png
+*.tiff
+*.gif
+*.jpg
+
+# Ignore binary documents
+*.pdf
+
